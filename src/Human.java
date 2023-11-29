@@ -19,5 +19,6 @@ public class Human {
         this.age = age;
         this.isMan = isMan;
         this.hobbies = hobbies;
+
     }
 }
